@@ -7,7 +7,7 @@ from fastapi.staticfiles import StaticFiles
 
 # Constants
 CHUNK_SIZE = 1024
-XI_API_KEY = "sk_33e873c1c17a0ce48a48ea46ca1bb4e1bc4a725c86ff2df6"  # Replace with your valid API key
+XI_API_KEY = "sk_1019ce4450665491286f92a8b235c69ef47d26a419af2d03"  # Replace with your valid API key
 VOICE_ID = "21m00Tcm4TlvDq8ikWAM"  # Replace with your valid voice ID
 OUTPUT_FOLDER = "output"  # Folder to save audio files
 
