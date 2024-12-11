@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-elevenlabs
 pydantic
+requests
+python-multipart
